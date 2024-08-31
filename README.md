@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
+| [0724-find-pivot-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
