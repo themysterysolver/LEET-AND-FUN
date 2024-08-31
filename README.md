@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0204-count-primes) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
