@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 ## Stack
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
