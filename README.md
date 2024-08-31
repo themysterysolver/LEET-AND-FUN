@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0338-counting-bits) |
 ## Database
 |  |
 | ------- |
