@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0102-binary-tree-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0102-binary-tree-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Two Pointers
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0102-binary-tree-level-order-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 ## String
 |  |
 | ------- |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
