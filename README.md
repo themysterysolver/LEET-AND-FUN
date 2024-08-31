@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0142-linked-list-cycle-ii) |
