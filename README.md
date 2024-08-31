@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
 | [0164-maximum-gap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0238-product-of-array-except-self) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
@@ -200,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
