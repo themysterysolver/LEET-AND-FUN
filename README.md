@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
