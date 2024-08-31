@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
 ## Array
 |  |
