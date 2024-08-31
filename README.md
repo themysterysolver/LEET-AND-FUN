@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
