@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
