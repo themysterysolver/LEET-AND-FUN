@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0670-maximum-swap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0670-maximum-swap) |
 ## Greedy
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
