@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
