@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -246,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
