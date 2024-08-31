@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
