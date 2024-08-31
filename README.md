@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
+| [3429-special-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
