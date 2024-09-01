@@ -16,7 +16,9 @@ class Solution:
         first=last=head
         for i in range(k-1):
             first=first.next
-        for i in range(count-k):
+        temp=first
+        while temp.next:
             last=last.next
-        first.val,last.val=last.val,first.val
+            temp=temp.next
+        last.val,first.val=first.val,last.val
         return head
