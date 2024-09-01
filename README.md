@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2752-sum-multiples](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2752-sum-multiples) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Trie
 |  |
 | ------- |
