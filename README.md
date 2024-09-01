@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [2481-strictly-palindromic-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2481-strictly-palindromic-number) |
