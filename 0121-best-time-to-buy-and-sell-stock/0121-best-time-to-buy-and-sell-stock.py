@@ -20,15 +20,6 @@ class Solution(object):
                 mini=prices[i]
             if(prices[i]-mini>maxi):
                 maxi=prices[i]-mini
-        '''for i in range(len(prices)):
-            if(max(prices[i:])-prices[i]>maxi):
-                maxi=max(prices[i:])-prices[i]'''
-        '''for i in range(len(prices)):
-            buy=prices[i]
-            for j in range(i,len(prices)):
-                sell=prices[j]
-                if(sell-buy>maxi):
-                    maxi=sell-buy'''
         return maxi
 
 
