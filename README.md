@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0118-pascals-triangle) |
