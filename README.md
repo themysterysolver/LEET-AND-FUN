@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
