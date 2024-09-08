@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Tree
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0657-robot-return-to-origin) |
+| [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
