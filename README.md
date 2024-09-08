@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0507-perfect-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
