@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0670-maximum-swap) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
