@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0657-robot-return-to-origin) |
