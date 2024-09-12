@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Tree
