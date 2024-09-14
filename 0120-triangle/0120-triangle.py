@@ -1,4 +1,4 @@
-#TOP-DOWN!
+#BOTTOM-UP
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
         for i in range(len(triangle)-2,-1,-1):
