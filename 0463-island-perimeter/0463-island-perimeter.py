@@ -13,7 +13,7 @@ class Solution:
                 x,y=q.popleft()
                 for dx,dy in direction:
                     nx,ny=x+dx,y+dy
-                    if nx<0 or ny<0 or nx>=row or ny>=col or grid[nx][ny]==0:
+                    if nx<0 or ny<0 or nx==row or ny==col or grid[nx][ny]==0:
                         perimeter+=1
                     elif grid[nx][ny]==1 and not visited[nx][ny]:
                         visited[nx][ny]=True
