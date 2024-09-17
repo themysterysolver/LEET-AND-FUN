@@ -1,16 +1,27 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        perimeter=0
+        if not grid:
+            return 0
+        row,col=len(grid),len(grid[0])
+        visited=[[False]*col for _ in range(row)]
+        direction=[(0,1),(1,0),(0,-1),(-1,0)]
+        def BFS(r,c):
+            perimeter=0
+            q=deque([(r,c)])
+            visited[r][c]=True
+            while q:
+                x,y=q.popleft()
+                for dx,dy in direction:
+                    nx,ny=x+dx,y+dy
+                    if nx<0 or ny<0 or nx>=row or ny>=col or grid[nx][ny]==0:
+                        perimeter+=1
+                    elif grid[nx][ny]==1 and not visited[nx][ny]:
+                        visited[nx][ny]=True
+                        q.append((nx,ny))
+            return perimeter
+
         for i in range(len(grid)):
             for j in range(len(grid[i])):
                 if grid[i][j]==1:
-                    if j==0 or grid[i][j-1]==0:#left
-                        perimeter+=1
-                    if j==len(grid[i])-1 or grid[i][j+1]==0:#right
-                        perimeter+=1
-                    if i==0 or grid[i-1][j]==0:#above
-                        perimeter+=1
-                    if i==len(grid)-1 or grid[i+1][j]==0:#below
-                        perimeter+=1       
-        return perimeter
+                    return BFS(i,j)
                         
