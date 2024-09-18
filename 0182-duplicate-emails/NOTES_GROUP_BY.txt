@@ -1,0 +1,29 @@
+In MySQL, GROUP BY is used to group rows that have the same values in specified columns into summary rows. It is typically used with aggregate functions (like COUNT(), SUM(), AVG(), etc.) to return one value for each group.
+
+How GROUP BY Works:
+Group: It collects rows that have the same values in the specified column(s).
+Aggregate: It allows you to perform calculations on each group of data, such as summing a column or counting rows.
+Syntax:
+sql
+
+SELECT column_name, AGGREGATE_FUNCTION(column_name)
+FROM table_name
+GROUP BY column_name;
+
+Eg:
+SELECT CustomerID, SUM(Amount) AS TotalAmount
+FROM Orders
+GROUP BY CustomerID;
+
+In MySQL, when using the GROUP BY clause, you can indeed include columns and aggregate functions in the SELECT statement, but there are some rules to follow:
+
+Included in GROUP BY or Aggregated: Any column that appears in the SELECT clause must either be included in the 
+GROUP BY clause or used within an aggregate function. This is because MySQL needs to know how to group the data for those columns.
+
+Display Aggregated Results: You can use aggregate functions like SUM(), COUNT(), AVG(), etc., to perform calculations on grouped data. 
+These aggregate results are typically what you display.
+
+This is INCORRECT!
+SELECT SalesPerson, Amount
+FROM Sales
+GROUP BY SalesPerson;
