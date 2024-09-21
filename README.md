@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2391-strong-password-checker-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2391-strong-password-checker-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2470-removing-stars-from-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Game Theory
 |  |
