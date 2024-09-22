@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0507-perfect-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0792-binary-search) |
