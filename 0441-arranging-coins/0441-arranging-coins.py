@@ -1,4 +1,8 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        return int((-1 + (1 + 8*n) ** 0.5) // 2)
+        i=0
+        while n>=0:
+            i+=1
+            n=n-i
+        return i-1
         
