@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
+| [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
 | [1619-path-crossing](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1619-path-crossing) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Trie
