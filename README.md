@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0735-asteroid-collision) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Array
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
