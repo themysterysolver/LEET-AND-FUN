@@ -1,12 +1,17 @@
 class Solution:
     def canArrange(self, arr: List[int], k: int) -> bool:
-        frequency=[0]*k
+        frequency=dict()
         for i in arr:
-            rem=(i%k+k)%k
-            frequency[rem]+=1
-        if frequency[0]%2!=0:
+            rem=((i%k)+k)%k
+            if rem in frequency:
+                frequency[rem]+=1
+            else:
+                frequency[rem]=1
+        if frequency.get(0,0)%2!=0:
             return False
         for i in range(1,k//2+1):
-            if frequency[i]!=frequency[k-i]:
+            if frequency.get(i,0)==frequency.get(k-i,0):
+                continue
+            else:
                 return False
         return True
