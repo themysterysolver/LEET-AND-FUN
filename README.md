@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
+| [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1036-rotting-oranges) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0733-flood-fill) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
