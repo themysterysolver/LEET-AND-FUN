@@ -1,0 +1,24 @@
+**LOG-1**
+I am excited to say I solved my 200th question on leetcode.
+Which is Minesweeper.
+#529.Minesweeper
+I wanted my 200th q to be special,so I choose a graph,bfs question.which is medium, and I am excited.
+Coz I never knew how to play Minesweeper,I learn that this morning regarding the play.
+If you are reading my log,I will Teach you how to play.
+----------------------------------------------------------------------------
+MINESWEEPER RULES:
+the box you may click may or maynot conatina mines.
+But if you click a blank space,where there is bomb adjacent to the block you touched,it reveals the number of adjacenet bombs on the square itself.
+Else if there is no bomb it expands until it see a bomb,expanding of blank boxes stop only if reaches a bomb.
+Adjaceny for a block is all available adjacent 8 boxes,except the border boxes.
+------------------------------------------------------------------------------
+Coding this was really fun,I did everything by myself.
+No GPT even for logics,debugging or code optimization,nor I reffered solution.
+The best part is the code got submitted on single submit.
+------------------------------------------------------------------------------
+There is a sad thing about how I am doing this 200th q.Previosly till 190,I had my problme count on easy and medium as 108,82 respectively.So my idea is to get 110 and 90 on easy,hard.
+But my recent idea or aim to get monthly badge messed an extra easy q when I am already at my limit on 110 easy,so that was lil bad!
+------------------------------------------------------------------------------
+Thx for reading,
+continue learning!
+-R.prabhakara Arjun
