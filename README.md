@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0145-binary-tree-postorder-traversal) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0125-valid-palindrome) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0055-jump-game) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
