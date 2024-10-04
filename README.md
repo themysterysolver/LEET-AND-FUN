@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3429-special-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2481-strictly-palindromic-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Trie
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
