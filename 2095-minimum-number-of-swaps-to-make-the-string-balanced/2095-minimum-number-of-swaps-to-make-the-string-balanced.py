@@ -1,13 +1,9 @@
 class Solution:
     def minSwaps(self, s: str) -> int:
-        stack = deque()
-        unbalanced = 0
-        for ch in s:
-            if ch == "[":
-                stack.append(ch)
-            else:
-                if stack:
-                    stack.pop()
-                else:
-                    unbalanced += 1
-        return (unbalanced + 1) // 2
+        stack=[]
+        for c in s:
+            stack.append(c)
+            if len(stack)>1 and stack[-1]==']' and stack[-2]=='[':
+                stack.pop()
+                stack.pop()
+        return (stack.count(']')+1)// 2
