@@ -6,6 +6,6 @@ class Solution:
         max_width=0
         min_index=len(nums)
         for i in index:
-            min_index=min(min_index,i)
             max_width=max(i-min_index,max_width)
+            min_index=min(min_index,i)
         return max_width
