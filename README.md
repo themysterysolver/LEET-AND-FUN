@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0263-ugly-number) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Radix Sort
