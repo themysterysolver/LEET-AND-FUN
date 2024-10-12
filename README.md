@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0172-factorial-trailing-zeroes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
