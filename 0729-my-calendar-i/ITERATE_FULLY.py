@@ -6,7 +6,6 @@ class MyCalendar:
     def book(self, start: int, end: int) -> bool:
         print(self.slot)
         for s,e in self.slot:
-            left=0,right=len(self.sort)
             if s<end and start<e:#s<end and start<e ..............not(e<=start or end<=s)
                 return False
         self.slot.append((start,end))
