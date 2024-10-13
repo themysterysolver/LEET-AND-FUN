@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0055-jump-game) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
 ## Prefix Sum
