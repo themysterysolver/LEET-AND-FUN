@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
+| [1580-shuffle-the-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1580-shuffle-the-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1677-matrix-diagonal-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1694-make-sum-divisible-by-p) |
