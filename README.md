@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
