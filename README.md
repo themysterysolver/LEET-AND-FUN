@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Array
 |  |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1619-path-crossing) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2058-concatenation-of-array) |
