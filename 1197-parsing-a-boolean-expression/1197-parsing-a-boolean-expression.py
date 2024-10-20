@@ -16,20 +16,11 @@ class Solution:
                         contains_false=True
                 operator_eval=stack.pop()
                 if operator_eval=='!':
-                    if contains_true:
-                        stack.append('f')
-                    elif contains_false:
-                        stack.append('t')
+                    stack.append('f' if contains_true else 't')
                 elif operator_eval=='&':
-                    if contains_false:
-                        stack.append('f')
-                    else:
-                        stack.append('t')
+                    stack.append('f' if contains_false else 't')
                 else:
-                    if contains_true:
-                        stack.append('t')
-                    else:
-                        stack.append('f')
+                    stack.append('t' if contains_true else 'f')
         return stack[-1]=='t'
                 
     
