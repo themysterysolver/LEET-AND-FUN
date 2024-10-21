@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1619-path-crossing) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
