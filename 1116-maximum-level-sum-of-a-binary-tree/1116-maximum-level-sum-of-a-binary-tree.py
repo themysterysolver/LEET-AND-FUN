@@ -18,10 +18,10 @@ class Solution:
                 value=0
                 for i in range(l):
                     tempRoot=q.popleft()
-                    if tempRoot.left is not None:
+                    if tempRoot.left:
                         q.append(tempRoot.left)
                         value+=tempRoot.left.val
-                    if tempRoot.right is not None:
+                    if tempRoot.right:
                         q.append(tempRoot.right)
                         value+=tempRoot.right.val
                 maximum.append(value)
