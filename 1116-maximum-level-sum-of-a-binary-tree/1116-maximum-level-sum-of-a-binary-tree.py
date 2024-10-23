@@ -23,6 +23,7 @@ class Solution:
                     if tempRoot.right:
                         q.append(tempRoot.right)
                         value+=tempRoot.right.val
+                print(maximum)
                 maximum.append(value)
             maximum.pop()
             print(maximum)
