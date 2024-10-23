@@ -10,7 +10,6 @@ class Solution:
             return 1
         def BFS(root):
             q=deque([root])
-            count=0
             maximum=[]
             maximum.append(root.val)
             while q:
