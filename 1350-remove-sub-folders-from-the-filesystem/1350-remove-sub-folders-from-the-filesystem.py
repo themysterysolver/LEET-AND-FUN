@@ -4,8 +4,6 @@ class Solution:
         print(folder)
         result=[]
         for f in folder:
-            if not result:
-                result.append(f)
             doesnt_exist=True
             for c in result:
                 if c in f:
