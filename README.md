@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0182-duplicate-emails) |
+| [1908-recyclable-and-low-fat-products](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1908-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
 | ------- |
