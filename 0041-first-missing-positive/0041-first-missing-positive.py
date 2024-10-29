@@ -1,14 +1,15 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
-        nums=list(set(nums))
-        nums.sort()
-        current=1
+        hash={}
+        maxi=0
         for i in nums:
             if i<=0:
                 continue
-            elif i!=current:
-                return current
             else:
-                current+=1
-        return current
+                hash[i]=True
+                maxi=max(maxi,i)
+        for i in range(1,maxi+1):
+            if i not in hash:
+                return i
+        return maxi+1
         
