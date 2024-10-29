@@ -1,35 +1,27 @@
 class Solution:
     def maxMoves(self, grid: List[List[int]]) -> int:
         def display(mat):
-            for row in grid:
+            for row in mat:
                 print(row)
-            print('------------------------')
-        def modBFS():
-            q=deque([])
-            row,col=len(grid),len(grid[0])
-            directions=[]
+            print('-------------------------')
+        row,col=len(grid),len(grid[0])
+        tabulation=[[-1]*col for _ in range(row)]
+        for i in range(row):
+            tabulation[i][0]=0
+        directions=[(-1,-1),(0,-1),(1,-1)]
+        for j in range(1,col):
             for i in range(row):
-                q.append((i,0))
-            visited=[[False]*col for _ in range(row)]
-            directions=[(-1,1),(0,1),(1,1)]
-            print(list(q))
-            count=0
-            while q:
-                l=len(q)
-                for i in range(l):
-                    x,y=q.popleft()
-                    #print('----------++---------\n',"x,y",x,y)
-                    for dx,dy in directions:
-                        nx,ny=x+dx,y+dy
-                        #print('NX,NY',nx,ny)
-                        if nx<0 or ny<0 or nx>=row or ny>=col or visited[nx][ny]:
-                            continue
-                        elif grid[nx][ny]>grid[x][y]:
-                            #print('grid[nx][ny]',grid[nx][ny])
-                            visited[nx][ny]=True
-                            q.append((nx,ny))
-                #print('qlist--->',list(q))
-                count+=1
-            return count-1
+                for dx,dy in directions:
+                    nx,ny=i+dx,j+dy
+                    if nx<0 or ny<0 or nx>=row or ny>=col:
+                        continue
+                    elif grid[nx][ny]<grid[i][j]:
+                        if tabulation[nx][ny]!=-1:
+                            tabulation[i][j]=max(tabulation[nx][ny]+1,tabulation[i][j])
+        display(tabulation)
         display(grid)
-        return modBFS()
+        maxi=0
+        for i in range(row):
+            for j in range(col):
+                maxi=max(tabulation[i][j],maxi)
+        return maxi
