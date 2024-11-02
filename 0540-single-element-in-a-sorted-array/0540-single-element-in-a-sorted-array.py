@@ -1,11 +1,10 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
-        hash=dict()
-        for i in nums:
-            if i not in hash:
-                hash[i]=1
+        left,right=0,len(nums)-1
+        while left<right:
+            mid=left+(right-left)//2
+            if (mid%2==0 and nums[mid]==nums[mid+1]) or (mid%2==1 and nums[mid]==nums[mid-1]):
+                left=mid+1
             else:
-                hash[i]+=1
-        for key,val in hash.items():
-            if val==1:
-                return key
+                right=mid
+        return nums[left]
