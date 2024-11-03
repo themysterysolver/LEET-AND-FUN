@@ -5,14 +5,7 @@ class Solution(object):
         :type goal: str
         :rtype: bool
         """
-        l=list(s)
-        g=list(goal)
-        n=len(s)
-        print (l)
-        while(n!=0):
-            l.append(l.pop(0))
-            print (l)
-            if l==g:
+        for i in range(len(s)+1):
+            if s[i:]+s[:i]==goal:
                 return True
-            n-=1
-        return False
+        return False     
