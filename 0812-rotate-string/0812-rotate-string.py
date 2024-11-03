@@ -5,7 +5,4 @@ class Solution(object):
         :type goal: str
         :rtype: bool
         """
-        for i in range(len(s)+1):
-            if s[i:]+s[:i]==goal:
-                return True
-        return False     
+        return True if goal in s+s and len(s)==len(goal) else False     
