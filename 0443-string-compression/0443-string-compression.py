@@ -1,33 +1,21 @@
-class Solution(object):
-    def compress(self, chars):
-        """
-        :type chars: List[str]
-        :rtype: int
-        """
-        if not chars:
-            return 0
-        if len(chars)==1:
-            return 1
+class Solution:
+    def compress(self,nums: List[str]) -> int:
         count=0
-        stri=""
-        for i in range(len(chars)-1):
-            if chars[i]==chars[i+1]:
-                count=count+1
+        result=[]
+        current=nums[0]
+        for i in range(len(nums)):
+            if nums[i]==current:
+                count+=1
             else:
-                count=count+1
-                if count==1:
-                    stri=stri+chars[i]
-                else:
-                    stri=stri+chars[i]+''.join(list(str(count)))
-                count=0
-            print i,stri,count
-        if chars[-2]==chars[-1]:
-            count=count+1
-            if count==1:
-                stri=stri+chars[-1]
-            else:
-                stri=stri+chars[-1]+''.join(list(str(count)))
-        else:
-            stri=stri+chars[-1]
-        chars[:]=stri[:]
-        return len(chars)
+                result.append(str(current))
+                current=nums[i]
+                if count>1:
+                    result.extend(list(str(count)))
+                count=1
+            if i==len(nums)-1:
+                result.append(str(current))
+                current=nums[i]
+                if count>1:
+                    result.extend(list(str(count)))
+        nums[:]=result[:]
+        return len(result)
