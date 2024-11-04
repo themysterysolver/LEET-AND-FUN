@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
