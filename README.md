@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2383-add-two-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2481-strictly-palindromic-number) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2662-check-knight-tour-configuration) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
+| [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Radix Sort
 |  |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
+| [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2662-check-knight-tour-configuration) |
@@ -883,4 +888,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1916-find-center-of-star-graph) |
+| [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
