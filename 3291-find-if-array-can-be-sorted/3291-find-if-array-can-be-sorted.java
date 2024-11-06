@@ -1,22 +1,27 @@
 class Solution {
     public boolean canSortArray(int[] nums) {
-        HashMap<Integer,Integer> hash=new HashMap<>();
-        for(int n:nums){
-            hash.put(n,Integer.bitCount(n));
-        }
-        for(int i=0;i<nums.length;i++){
-            for(int j=0;j<nums.length-1-i;j++){
-                if(nums[j+1]<nums[j]){
-                    if(hash.get(nums[j+1])==hash.get(nums[j])){
-                        int temp=nums[j];
-                        nums[j]=nums[j+1];
-                        nums[j+1]=temp;
-                    }
-                    else{
-                        return false;
-                    }
+        int minSeg=nums[0],maxSeg=nums[0];
+        int maxPrev=Integer.MIN_VALUE;
+        int setBits=Integer.bitCount(nums[0]);
+        for(int i=1;i<nums.length;i++){
+            if(Integer.bitCount(nums[i])==setBits){
+                maxSeg=Math.max(maxSeg,nums[i]);
+                minSeg=Math.min(minSeg,nums[i]);
+            }
+            else{
+                if(minSeg<maxPrev){
+                    return false;
+                }
+                else{
+                    maxPrev=maxSeg;
+                    minSeg=nums[i];
+                    maxSeg=nums[i];
+                    setBits=Integer.bitCount(nums[i]);
                 }
             }
+        }
+        if(minSeg<maxPrev){
+            return false;
         }
         return true;
     }
