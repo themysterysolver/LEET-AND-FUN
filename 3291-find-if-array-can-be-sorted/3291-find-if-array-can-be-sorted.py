@@ -1,14 +1,18 @@
 class Solution:
     def canSortArray(self, nums: List[int]) -> bool:
-        hash=dict()
-        for n in nums:
-            hash[n]=bin(n).count('1')
-        print(hash)
-        for i in range(len(nums)):
-            for j in range(len(nums)-i-1):
-                if nums[j+1]<nums[j]:
-                    if hash[nums[j+1]]==hash[nums[j]]:
-                        nums[j+1],nums[j]=nums[j],nums[j+1]
-                    else:
-                        return False
+        setBits=bin(nums[0]).count('1')
+        maxSeg,minSeg=nums[0],nums[0]
+        maxPrev=float('-inf')
+        for i in range(1,len(nums)):
+            if bin(nums[i]).count('1')==setBits:
+                maxSeg=max(maxSeg,nums[i])
+                minSeg=min(minSeg,nums[i])
+            else:
+                if minSeg<maxPrev:
+                    return False
+                maxPrev=maxSeg
+                maxSeg,minSeg=nums[i],nums[i]
+                setBits=bin(nums[i]).count('1')
+        if minSeg<maxPrev:
+            return False
         return True
