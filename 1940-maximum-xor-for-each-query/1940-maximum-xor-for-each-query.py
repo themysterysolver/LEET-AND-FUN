@@ -1,13 +1,13 @@
 class Solution:
     def getMaximumXor(self, nums: List[int], maximumBit: int) -> List[int]:
-        totalXOR=[0]*len(nums)
-        totalXOR[0]=nums[0]
+        prefixXOR=[0]*len(nums)
+        prefixXOR[0]=nums[0]
         answer=[]
         for i in range(1,len(nums)):
-            totalXOR[i]=totalXOR[i-1] ^ nums[i]
+            prefixXOR[i]=prefixXOR[i-1] ^ nums[i]
         mask=(1<<maximumBit)-1
-        for i in range(len(totalXOR)-1,-1,-1):
-            answer.append(totalXOR[i] ^ mask)
+        for i in range(len(prefixXOR)-1,-1,-1):
+            answer.append(prefixXOR[i] ^ mask)
         return answer
 
         
