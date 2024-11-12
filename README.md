@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Tree
 |  |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2554-minimum-total-distance-traveled) |
