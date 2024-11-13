@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2662-check-knight-tour-configuration](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2662-check-knight-tour-configuration) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3221-find-the-peaks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3221-find-the-peaks) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3291-find-if-array-can-be-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
