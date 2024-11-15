@@ -1,0 +1,13 @@
+Enumeration in DSA:
+In Data Structures and Algorithms (DSA), enumeration refers to systematically listing all possible solutions, configurations, or items in a set, often to solve a problem or analyze data.
+
+Key Points:
+
+It involves generating all possible combinations, permutations, or subsets of elements.
+Commonly used in brute-force approaches to ensure no potential solution is missed.
+It can be optimized using techniques like pruning to skip unnecessary computations (e.g., using recursion or backtracking).
+Examples in DSA:
+
+Generating subsets of an array (power set).
+Enumerating all paths in a graph.
+Listing all permutations of a string or numbers.
