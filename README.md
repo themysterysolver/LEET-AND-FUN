@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
 | [1236-n-th-tribonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1236-n-th-tribonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2083-three-divisors) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
 | [1342-queens-that-can-attack-the-king](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1342-queens-that-can-attack-the-king) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Radix Sort
