@@ -1,0 +1,7 @@
+In Python, Counter is a class from the collections module that is used to count the occurrences of elements in an iterable (like a list, tuple, or string). 
+It provides a dictionary-like structure where the keys are the elements and the values are their counts.
+
+
+from collections import Counter
+
+counter = Counter(iterable)
