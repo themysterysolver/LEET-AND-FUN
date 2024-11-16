@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1002-maximum-width-ramp) |
+| [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1104-coloring-a-border](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1104-coloring-a-border) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1002-maximum-width-ramp) |
+| [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Depth-First Search
 |  |
