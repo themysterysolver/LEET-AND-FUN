@@ -1,4 +1,4 @@
-#being greedy,choosing the nearest neighbour suvh that I will get smallest absolute!
+#being greedy,choosing the nearest neighbour such that I will get smallest absolute!
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         d=dict()
