@@ -974,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1916-find-center-of-star-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1916-find-center-of-star-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 ## Rejection Sampling
