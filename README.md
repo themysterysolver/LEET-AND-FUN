@@ -795,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0584-find-customer-referee) |
+| [1258-article-views-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1908-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
