@@ -1,22 +1,21 @@
 class Solution {
     public int[] decrypt(int[] code, int k) {
         int result[]=new int[code.length];
-        int start=1,end=k,windowSum=0;
-        if(k<0){
-            start=code.length-Math.abs(k);
-            end=code.length-1;
-        }
-        for(int i=start;i<end+1;i++){
-            windowSum+=code[i];
-        }
+        int sum;
         for(int i=0;i<code.length;i++){
-            result[i]=windowSum;
-            windowSum-=code[start%code.length];
-            windowSum+=code[(end+1)%code.length];
-            start++;
-            end++;
+            sum=0;
+            if(k>0){
+                for(int j=i+1;j<i+1+k;j++){
+                    sum+=code[j%code.length];
+                }
+            }
+            if(k<0){
+                for(int j=i-Math.abs(k);j<i;j++){
+                    sum+=code[(j+code.length)%code.length];
+                }
+            }
+            result[i]=sum;
         }
-        System.out.println(windowSum);
         return result;
     }
 }
