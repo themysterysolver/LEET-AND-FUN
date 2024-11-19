@@ -1,17 +1,19 @@
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
-        result=[]
-        if k==result:
-            return code
+        result=[0]*len(code)
+        if k==0:
+            return result
+        start,end,windowSum=1,k,0
+        if k<0:
+            start=len(code)-abs(k)
+            end=len(code)-1
+        for i in range(start,end+1):
+            windowSum+=code[i]
         for i in range(len(code)):
-            sumi=0
-            if k>0:
-                for j in range(i+1,i+1+k):
-                    sumi+=code[j%len(code)]#positive overhead
-            if k<0:
-                for j in range(i-abs(k),i):
-                    print(i,j)
-                    sumi+=code[(j+len(code))%len(code)]#negative overhead
-                print('----------------------')
-            result.append(sumi)
+            result[i]=windowSum
+            windowSum-=code[start%len(code)]
+            windowSum+=code[(end+1)%len(code)]
+            start+=1
+            end+=1
         return result
+        
