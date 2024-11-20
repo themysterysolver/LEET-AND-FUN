@@ -1,3 +1,4 @@
+#https://www.youtube.com/watch?v=3Y_0LagNMxM
 class Solution:
     def takeCharacters(self, s: str, k: int) -> int:
         freq={'a':0,'b':0,'c':0}
