@@ -1,3 +1,4 @@
+#analyse that after fliiping to optimum we realise the columns which are similar and complementary give the right answer!
 class Solution:
     def maxEqualRowsAfterFlips(self, matrix: List[List[int]]) -> int:
         maxIdenticalRows=0
