@@ -1,23 +1,18 @@
 class Solution {
-    public int[] flipIt(int[] row){
-        int[] flipped=new int[row.length];
-        for(int i=0;i<row.length;i++){
-            flipped[i]=1-row[i];
-        }
-        return flipped;
-    }
     public int maxEqualRowsAfterFlips(int[][] matrix) {
-        int maxIdenticalRows=0;
+        Map<String,Integer> freq=new HashMap<>();
         for(int[] row:matrix){
-            int[] flipped=flipIt(row);
-            int count=0;
-            for(int[] compareRow:matrix){
-                if(Arrays.equals(compareRow,row)||Arrays.equals(compareRow,flipped)){
-                    count++;
+            StringBuilder pattern=new StringBuilder("");
+            for(int i=0;i<row.length;i++){
+                if(row[0]==row[i]){
+                    pattern.append("T");
+                }
+                else{
+                    pattern.append("F");
                 }
             }
-            maxIdenticalRows=Math.max(count,maxIdenticalRows);
+            freq.put(pattern.toString(),freq.getOrDefault(pattern.toString(),0)+1);
         }
-        return maxIdenticalRows;
+        return Collections.max(freq.values());
     }
 }
