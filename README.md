@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0605-can-place-flowers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
