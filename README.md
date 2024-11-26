@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2752-sum-multiples](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2857-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2857-total-distance-traveled) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2470-removing-stars-from-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2662-check-knight-tour-configuration) |
+| [2857-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2857-total-distance-traveled) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Game Theory
 |  |
