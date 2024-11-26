@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0513-find-bottom-left-tree-value) |
+| [0623-add-one-row-to-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0513-find-bottom-left-tree-value) |
 | [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0623-add-one-row-to-tree) |
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0787-sliding-puzzle) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0513-find-bottom-left-tree-value) |
 | [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0623-add-one-row-to-tree) |
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
