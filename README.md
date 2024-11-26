@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
