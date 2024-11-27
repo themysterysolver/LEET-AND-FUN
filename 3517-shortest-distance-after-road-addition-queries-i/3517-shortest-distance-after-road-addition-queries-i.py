@@ -15,7 +15,7 @@ class Solution:
             while q:
                 #print(d,'q:BEFORE',list(q))
                 l=len(q)
-                for i in range(l):
+                for _ in range(l):
                     node=q.popleft()
                     for i in adV[node]:
                         if not visited[i]:
