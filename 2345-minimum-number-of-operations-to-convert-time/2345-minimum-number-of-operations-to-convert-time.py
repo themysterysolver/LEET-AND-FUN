@@ -1,5 +1,6 @@
 class Solution:
     def convertTime(self, current: str, correct: str) -> int:
+        #hrs,min=map(int,s.split(":"))
         minsCurrent=int(current[3:])+int(current[:2])*60
         minsCorrect=int(correct[3:])+int(correct[:2])*60
         print(minsCurrent,minsCorrect)
