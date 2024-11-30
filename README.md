@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0289-game-of-life) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0374-guess-number-higher-or-lower) |
