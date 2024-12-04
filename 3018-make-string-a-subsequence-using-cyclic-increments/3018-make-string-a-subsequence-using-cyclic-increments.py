@@ -8,5 +8,5 @@ class Solution:
                 if j==len(str2):
                     return True
         #print(j)
-        return j==len(str2)
+        return False
         
