@@ -5,8 +5,8 @@ class Solution:
             #print(i,j,str1[i],str2[j],(ord(str1[i])-97+1)%26,ord(str2[j])-97)
             if (ord(str1[i])-97+1)%26==ord(str2[j])-97 or str1[i]==str2[j]:
                 j+=1
-            if j==len(str2):
-                return True
+                if j==len(str2):
+                    return True
         #print(j)
         return j==len(str2)
         
