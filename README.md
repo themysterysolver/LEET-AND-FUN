@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3221-find-the-peaks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3242-count-elements-with-maximum-frequency) |
