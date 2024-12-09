@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
