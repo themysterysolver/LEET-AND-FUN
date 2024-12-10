@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
