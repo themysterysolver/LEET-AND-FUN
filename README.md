@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0275-h-index-ii) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0283-move-zeroes) |
