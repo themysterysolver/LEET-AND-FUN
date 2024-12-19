@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1694-make-sum-divisible-by-p) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
