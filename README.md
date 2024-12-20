@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
