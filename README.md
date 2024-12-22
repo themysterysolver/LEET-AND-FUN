@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2470-removing-stars-from-a-string) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Recursion
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3221-find-the-peaks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
 ## Binary Tree
 |  |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1036,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1178,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0729-my-calendar-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1243,4 +1249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2201-valid-arrangement-of-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
