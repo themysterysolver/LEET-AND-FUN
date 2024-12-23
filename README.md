@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
