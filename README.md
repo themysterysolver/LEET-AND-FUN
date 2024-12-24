@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1104-coloring-a-border](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1104-coloring-a-border) |
 | [1127-last-stone-weight](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
+| [1137-height-checker](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
+| [1137-height-checker](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1137-height-checker) |
 ## Combinatorics
 |  |
 | ------- |
