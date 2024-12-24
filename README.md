@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
