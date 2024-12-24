@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3561-remove-methods-from-project) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3561-remove-methods-from-project) |
 ## Simulation
 |  |
@@ -1218,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3189-find-champion-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3561-remove-methods-from-project) |
