@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1720-crawler-log-folder) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1714-rearrange-spaces-between-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1714-rearrange-spaces-between-words) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1720-crawler-log-folder) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2554-minimum-total-distance-traveled) |
