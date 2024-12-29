@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
@@ -1263,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0232-implement-queue-using-stacks) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
