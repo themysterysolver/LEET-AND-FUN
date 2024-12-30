@@ -1068,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Database
