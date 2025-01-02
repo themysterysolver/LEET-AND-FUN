@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
