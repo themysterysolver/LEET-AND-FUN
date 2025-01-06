@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0075-sort-colors) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0151-reverse-words-in-a-string) |
@@ -1240,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
