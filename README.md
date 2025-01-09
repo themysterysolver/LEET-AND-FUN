@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1876-map-of-highest-peak](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2103-find-all-groups-of-farmland) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2103-find-all-groups-of-farmland](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2201-valid-arrangement-of-pairs) |
@@ -1380,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1916-find-center-of-star-graph) |
@@ -1430,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0207-course-schedule) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
