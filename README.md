@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0498-diagonal-traverse) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0513-find-bottom-left-tree-value) |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
