@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2103-find-all-groups-of-farmland) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
@@ -1214,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
