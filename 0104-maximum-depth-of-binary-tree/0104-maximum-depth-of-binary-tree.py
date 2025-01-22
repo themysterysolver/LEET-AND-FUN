@@ -10,10 +10,9 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
-        count=1
         if root==None:
             return 0
-        count1=count+self.maxDepth(root.left)
-        count2=count+self.maxDepth(root.right)
-        return max(count1,count2)
+        count1=self.maxDepth(root.left)
+        count2=self.maxDepth(root.right)
+        return 1+max(count1,count2)
         
