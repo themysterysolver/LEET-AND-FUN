@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0988-flip-equivalent-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0988-flip-equivalent-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
+| [1005-univalued-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1036-rotting-oranges) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
+| [1005-univalued-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1073-number-of-enclaves) |
