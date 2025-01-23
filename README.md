@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
