@@ -1,0 +1,11 @@
+Theory Behind Union-Find
+Union-Find is a data structure that groups elements into disjoint sets. It is used to determine whether two elements belong to the same group and to efficiently combine groups. The two main operations are:
+
+Find:
+- Determines the "parent" or "representative" of a group to which an element belongs.
+This is achieved by traversing the parent pointers until a root is found.
+With path compression, elements directly point to their root to speed up future operations.
+
+Union:
+- Combines two groups into one by linking their roots.
+With union by rank/size, the smaller tree is merged under the larger tree, keeping the structure balanced and efficient
