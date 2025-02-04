@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0792-binary-search) |
+| [0810-valid-tic-tac-toe-state](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0810-valid-tic-tac-toe-state) |
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0878-shifting-letters) |
 | [0879-maximize-distance-to-closest-person](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0879-maximize-distance-to-closest-person) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0787-sliding-puzzle) |
+| [0810-valid-tic-tac-toe-state](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0810-valid-tic-tac-toe-state) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
