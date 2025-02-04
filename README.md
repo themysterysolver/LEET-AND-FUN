@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0978-valid-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0978-valid-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-valid-tic-tac-toe-state](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0810-valid-tic-tac-toe-state) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1041-available-captures-for-rook) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1331,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0988-flip-equivalent-binary-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1005-univalued-binary-tree) |
