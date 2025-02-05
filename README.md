@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0419-battleships-in-a-board) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1320,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1463,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0801-is-graph-bipartite) |
@@ -1493,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
@@ -1533,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
