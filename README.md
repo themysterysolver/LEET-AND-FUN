@@ -764,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1359,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2103-find-all-groups-of-farmland](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1512,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1916-find-center-of-star-graph) |
