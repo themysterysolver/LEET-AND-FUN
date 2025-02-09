@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2103-find-all-groups-of-farmland](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2103-find-all-groups-of-farmland) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1132,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3242-count-elements-with-maximum-frequency) |
