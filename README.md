@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2383-add-two-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
