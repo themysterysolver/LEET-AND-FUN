@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0289-game-of-life) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0168-excel-sheet-column-title) |
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
@@ -1334,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0100-same-tree) |
