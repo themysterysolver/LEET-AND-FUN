@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1551,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0374-guess-number-higher-or-lower) |
 ## Segment Tree
 |  |
