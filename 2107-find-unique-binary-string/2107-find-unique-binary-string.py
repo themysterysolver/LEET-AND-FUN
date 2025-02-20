@@ -2,6 +2,8 @@ class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
         result=[]
         def generate(n,s=""):
+            if len(result)>len(nums):
+                return
             if n==0:
                 result.append(s)
                 return
