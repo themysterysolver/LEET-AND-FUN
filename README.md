@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
