@@ -7,7 +7,7 @@
 class FindElements:
     def __init__(self, root: Optional[TreeNode]):
         self.setter=set()
-        def dis(result):
+        '''def dis(result):
             for t in result:
                 if t!=-1:
                     print(t.val,end='')
@@ -29,19 +29,22 @@ class FindElements:
                     if n.right:
                         q.append(n.right)
                 result.append(-1)
-            dis(result)
+            dis(result)'''
         def build(r):
             if r:
                 if r.left:
                     r.left.val=2*r.val+1
+                    self.setter.add(r.left.val)
                     build(r.left)
                 if r.right:
                     r.right.val=2*r.val+2
+                    self.setter.add(r.right.val)
                     build(r.right)
         if root:
-            root.val=0 
+            root.val=0
+            self.setter.add(0) 
             build(root)
-        display(root)
+        #display(root)
     def find(self, target: int) -> bool:
         return True if target in self.setter else False
 
