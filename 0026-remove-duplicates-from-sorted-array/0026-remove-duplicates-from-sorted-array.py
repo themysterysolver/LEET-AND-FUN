@@ -1,16 +1,9 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        b=nums
-        print(nums)
-        b=list(set(b))
-        print(b)
-        b.sort()
-        print(b)
-        nums[:]=b
-        #print(nums)
-        return len(nums)
-        
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        start=0
+        print('s r')
+        for right in range(1,len(nums)):
+            if nums[right]!=nums[right-1]:
+                nums[start+1]=nums[right]
+                start+=1
+        return start+1
