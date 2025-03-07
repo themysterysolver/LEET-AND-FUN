@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2610-closest-prime-numbers-in-range](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2610-closest-prime-numbers-in-range) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2752-sum-multiples](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2752-sum-multiples) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
