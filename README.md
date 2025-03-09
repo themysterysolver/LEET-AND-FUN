@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3463-alternating-groups-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1403,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3463-alternating-groups-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Monotonic Stack
