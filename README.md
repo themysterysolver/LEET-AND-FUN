@@ -913,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-design-underground-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-design-underground-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1512-design-underground-system) |
@@ -1397,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1755-defuse-the-bomb) |
