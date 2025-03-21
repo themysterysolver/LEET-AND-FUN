@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1678,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2201-valid-arrangement-of-pairs) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1728,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Eulerian Circuit
 |  |
