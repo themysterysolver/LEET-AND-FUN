@@ -1,7 +1,7 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals.sort(key=lambda x:x[0])
-        print(intervals)
+        #print(intervals)
         merged=[]
         for x,y in intervals:
             if not merged:
@@ -11,5 +11,5 @@ class Solution:
                     merged[-1][-1]=y
             else:
                 merged.append([x,y])
-        print(merged)
+        #print(merged)
         return merged
