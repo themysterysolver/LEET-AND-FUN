@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1582-design-browser-history](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1582-design-browser-history) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0792-binary-search) |
 | [0810-valid-tic-tac-toe-state](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0810-valid-tic-tac-toe-state) |
+| [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0878-shifting-letters) |
 | [0879-maximize-distance-to-closest-person](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0879-maximize-distance-to-closest-person) |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
@@ -1643,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1790,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
+| [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Concurrency
 |  |
