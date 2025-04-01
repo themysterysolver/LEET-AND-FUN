@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0232-implement-queue-using-stacks) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1648,6 +1652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0225-implement-stack-using-queues) |
@@ -1827,5 +1832,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
