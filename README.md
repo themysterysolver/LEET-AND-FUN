@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1331,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3221-find-the-peaks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3221-find-the-peaks) |
@@ -1423,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1648,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
