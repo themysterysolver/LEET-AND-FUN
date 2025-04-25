@@ -1,3 +1,4 @@
+'''The idea behind solving this problme is that n-right is the no of more subarrays that we can include once we find the window of distinct'''
 class Solution:
     def countCompleteSubarrays(self, nums: List[int]) -> int:
         l=len(set(nums))
