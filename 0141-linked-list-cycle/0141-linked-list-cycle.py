@@ -10,12 +10,12 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
+        s=set()
         temp=head
-        d=dict()
         while temp:
-            if temp in d:
+            if temp in s:
                 return True
-            d[temp]=1
+            s.add(temp)
             temp=temp.next
         return False
         
