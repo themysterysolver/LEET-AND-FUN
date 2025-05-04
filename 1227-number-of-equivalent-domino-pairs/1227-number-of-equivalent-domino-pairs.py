@@ -3,9 +3,10 @@ class Solution:
         for num in dominoes:
             num.sort()
         pre=list(map(tuple,dominoes))
+        #print(type(pre[0]))
         hash=defaultdict(int)
         count=0
-        for t in dominoes:
-            count+=hash[tuple(t)]
-            hash[tuple(t)]+=1
+        for t in pre:
+            count+=hash[t]
+            hash[t]+=1
         return count
