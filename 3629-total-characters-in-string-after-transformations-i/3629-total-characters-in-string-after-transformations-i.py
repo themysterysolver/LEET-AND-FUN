@@ -1,3 +1,4 @@
+#created new arrays else it erases the next value genius!
 class Solution:
     def lengthAfterTransformations(self, s: str, t: int) -> int:
         MOD=10**9+7
