@@ -10,12 +10,12 @@ class Solution:
             dp[0][i]=i
         for j in range(len(dp)):
             dp[j][0]=j
-        display(dp)
+        #display(dp)
         for i in range(1,len(dp)):
             for j in range(1,len(dp[0])):
                 if word2[i-1]==word1[j-1]:
                     dp[i][j]=dp[i-1][j-1]
                 else:
                     dp[i][j]=min(dp[i-1][j-1],dp[i-1][j],dp[i][j-1])+1
-        display(dp)
+        #display(dp)
         return dp[n][m]
