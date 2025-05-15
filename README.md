@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
+| [0477-total-hamming-distance](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1940-maximum-xor-for-each-query) |
