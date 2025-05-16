@@ -986,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
+| [0583-delete-operation-for-two-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0657-robot-return-to-origin) |
@@ -1455,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
