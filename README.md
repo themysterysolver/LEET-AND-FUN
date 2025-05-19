@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3371-harshad-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
