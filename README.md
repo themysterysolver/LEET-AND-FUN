@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
@@ -1701,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0682-baseball-game) |
