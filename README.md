@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2262-solving-questions-with-brainpower) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2345-minimum-number-of-operations-to-convert-time) |
