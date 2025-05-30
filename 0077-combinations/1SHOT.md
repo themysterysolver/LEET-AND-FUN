@@ -1,0 +1,5 @@
+- Lol,I literaly one shotted this backtracking question you know,
+  - Just ran it and passed the test case.
+  - Then submitted it,lol it passed it.
+  - and I all did this under 3mins!
+- Am I a freaking genius? idk,maybe not!
