@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3371-harshad-number) |
@@ -1457,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2998-count-symmetric-integers) |
+| [3199-distribute-candies-among-children-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
@@ -1805,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3199-distribute-candies-among-children-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3199-distribute-candies-among-children-i) |
 ## Design
 |  |
 | ------- |
