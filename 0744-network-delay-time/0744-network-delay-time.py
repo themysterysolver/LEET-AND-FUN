@@ -16,3 +16,7 @@ class Solution:
         #print(spt)
         shortest_path=spt[1:]
         return max(shortest_path) if float('inf') not in shortest_path else -1
+
+# THOUGHT PROCESS
+# - We use shortest path algo using dijkstras to choose the most optimal time to reach any node
+# - then we choose the longest time to reach any node from the optimal time choosen 
