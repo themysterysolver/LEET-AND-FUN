@@ -1122,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0260-single-number-iii) |
@@ -1442,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
