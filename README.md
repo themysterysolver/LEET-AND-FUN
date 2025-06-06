@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1833-find-the-highest-altitude) |
@@ -1784,6 +1785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1449-print-words-vertically) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1803-average-waiting-time](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2021-remove-all-occurrences-of-a-substring) |
