@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
+| [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1293-three-consecutive-odds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1293-three-consecutive-odds) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1260-day-of-the-year) |
+| [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
+| [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1317,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
+| [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1468-check-if-n-and-its-double-exist) |
