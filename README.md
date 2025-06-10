@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0979-di-string-match) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1169-largest-values-from-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1169-largest-values-from-labels) |
 | [1304-longest-happy-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1169-largest-values-from-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1169-largest-values-from-labels) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1223,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-escape-a-large-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1106-escape-a-large-maze) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1160-letter-tile-possibilities) |
+| [1169-largest-values-from-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1169-largest-values-from-labels) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1137-height-checker) |
+| [1169-largest-values-from-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1436,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1160-letter-tile-possibilities) |
+| [1169-largest-values-from-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1169-largest-values-from-labels) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1364-tuple-with-same-product) |
