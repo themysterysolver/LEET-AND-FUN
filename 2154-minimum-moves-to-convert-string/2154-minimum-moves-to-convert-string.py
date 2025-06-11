@@ -1,3 +1,4 @@
+#after seeing an 'X' we default move 2char space without,here it simply works if u work it down deeply
 class Solution:
     def minimumMoves(self, s: str) -> int:
         if 'X' not in s:
