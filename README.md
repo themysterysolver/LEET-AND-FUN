@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0605-can-place-flowers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0678-valid-parenthesis-string) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
@@ -1703,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0780-max-chunks-to-make-sorted) |
