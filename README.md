@@ -1080,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
@@ -1247,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
@@ -1725,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
