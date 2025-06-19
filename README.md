@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0392-is-subsequence) |
@@ -1370,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
@@ -1435,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
@@ -1945,6 +1948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
@@ -2094,6 +2098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1477-product-of-the-last-k-numbers) |
