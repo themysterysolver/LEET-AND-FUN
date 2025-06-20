@@ -1,18 +1,15 @@
 class Solution:
     def longestSquareStreak(self, nums: List[int]) -> int:
+        maxi=0
         nums.sort()
-        nums_set=set(nums)
-        visited=set([])
+        s=set(nums)
         print(nums)
-        maxl=0
-        for i in nums:
-            num=i
-            l=1
-            while num*num in nums_set and num*num not in visited:
-                visited.add(num*num)
-                num=num*num
-                l+=1
-            maxl=max(maxl,l)
-            #print(i,visited,maxl)
-            #print('------------------')
-        return maxl if maxl>=2 else -1
+        @cache
+        def go(n):
+            if n not in s:
+                return 0
+            return go(n*n)+1
+        #print(go)
+        for num in nums:
+            maxi=max(maxi,go(num))
+        return maxi if maxi>=2 else -1
