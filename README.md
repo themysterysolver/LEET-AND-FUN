@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0797-rabbits-in-forest) |
 | [0805-escape-the-ghosts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0805-escape-the-ghosts) |
+| [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0932-monotonic-array) |
@@ -1632,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1025-minimum-cost-for-tickets) |
@@ -1924,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 ## Memoization
 |  |
 | ------- |
