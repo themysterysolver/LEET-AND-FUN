@@ -1672,6 +1672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0584-find-customer-referee) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1258-article-views-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1908-recyclable-and-low-fat-products) |
