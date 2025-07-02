@@ -1669,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
