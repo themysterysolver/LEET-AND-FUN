@@ -17,4 +17,5 @@ class Solution:
                 candidate=s[left:right+1]
                 if res=="" or len(candidate)<len(res) or len(candidate)==len(res) and candidate<res:
                     res=candidate
+            #print(res)
         return res
