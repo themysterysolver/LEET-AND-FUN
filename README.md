@@ -1645,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
