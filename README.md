@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1354,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1915,6 +1919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -2080,6 +2085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -2141,6 +2147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2793-count-the-number-of-complete-components) |
