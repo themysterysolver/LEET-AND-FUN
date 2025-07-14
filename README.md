@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0978-valid-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0978-valid-mountain-array) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1005-univalued-binary-tree) |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1876,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0988-flip-equivalent-binary-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
@@ -2061,6 +2065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -2111,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0922-possible-bipartition) |
+| [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
