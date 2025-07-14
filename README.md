@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1025-minimum-cost-for-tickets) |
+| [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1041-available-captures-for-rook) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0979-di-string-match) |
 | [1023-time-based-key-value-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1160-letter-tile-possibilities) |
@@ -2060,6 +2062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
+| [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
@@ -2108,6 +2111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
