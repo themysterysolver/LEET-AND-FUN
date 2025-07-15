@@ -1039,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1447-jump-game-iv](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1447-jump-game-iv) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
@@ -1908,6 +1909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -2083,6 +2085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2121-find-if-path-exists-in-graph) |
@@ -2134,6 +2137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
