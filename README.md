@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0441-arranging-coins) |
@@ -1300,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -2190,6 +2192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 ## Monotonic Queue
 |  |
@@ -2246,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 ## Hash Function
 |  |
 | ------- |
