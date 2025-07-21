@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
+| [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1260-day-of-the-year) |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1160-letter-tile-possibilities) |
@@ -1979,6 +1981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [0983-validate-stack-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0983-validate-stack-sequences) |
 | [1041-available-captures-for-rook](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1041-available-captures-for-rook) |
+| [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1342-queens-that-can-attack-the-king](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1342-queens-that-can-attack-the-king) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
