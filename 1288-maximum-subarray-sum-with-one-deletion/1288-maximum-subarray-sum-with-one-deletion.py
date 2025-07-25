@@ -1,3 +1,6 @@
+#modified kadane
+# to be noted that atmost,thus it could include without deletions too(that's a class kadane)
+# we look for max subbarray from left and right here!
 class Solution:
     def maximumSum(self, arr: List[int]) -> int:
         l =len(arr)
