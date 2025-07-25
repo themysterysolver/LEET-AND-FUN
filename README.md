@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1960,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1544-count-good-nodes-in-binary-tree) |
