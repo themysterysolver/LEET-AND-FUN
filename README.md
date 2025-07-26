@@ -1773,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-capital-gainloss](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1523-capital-gainloss) |
 | [1664-find-users-with-valid-e-mails](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1664-find-users-with-valid-e-mails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1908-recyclable-and-low-fat-products) |
+| [2041-the-latest-login-in-2020](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2057-count-salary-categories) |
 ## Backtracking
 |  |
