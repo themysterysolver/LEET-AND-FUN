@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2339-k-divisible-elements-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2339-k-divisible-elements-subarrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2343-count-unguarded-cells-in-the-grid) |
