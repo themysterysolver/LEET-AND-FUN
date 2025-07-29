@@ -1777,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1292-immediate-food-delivery-ii) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1523-capital-gainloss) |
