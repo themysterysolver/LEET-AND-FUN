@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0805-escape-the-ghosts) |
 | [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
+| [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
 | [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0917-boats-to-save-people) |
+| [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0948-sort-an-array) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-valid-tic-tac-toe-state](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0810-valid-tic-tac-toe-state) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
 | [0967-minimum-falling-path-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
@@ -1657,6 +1660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
+| [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2575-minimum-cuts-to-divide-a-circle) |
