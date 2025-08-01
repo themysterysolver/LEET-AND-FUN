@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0908-middle-of-the-linked-list) |
@@ -1954,6 +1955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -2336,6 +2338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1582-design-browser-history) |
 ## Iterator
 |  |
