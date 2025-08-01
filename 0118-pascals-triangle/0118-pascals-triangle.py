@@ -1,28 +1,17 @@
-class Solution(object):
-    def generate(self, numRows):
-        """
-        :type numRows: int
-        :rtype: List[List[int]]
-        """
-        print numRows
+class Solution:
+    def generate(self, numRows: int) -> List[List[int]]:
         p=[]
-        if numRows==1:
+        if numRows>=1:
             p.append([1])
-        if numRows==2 or numRows>2:
-            p.append([1])
-            p.append([1,1])
-        i=0
-        new=[1]
-        for i in range(2,numRows):
-            a=p.pop()
-            p.append(a)
-            for i in range(len(a)-1):
-                new.append(a[i]+a[i+1])
-            new.append(1)
-            p.append(new)
+
+        for i in range(1,numRows):
             new=[1]
+            #print(i,len(p[-1]),p[-1])
+            for j in range(1,len(p[-1])):
+                #print(p[-1][j-1],p[-1][j],j)
+                new.append(p[-1][j-1]+p[-1][j])
+            new.append(1)
+            #print(new)
+            #print('--------------')
+            p.append(new)
         return p
-
-
-
-        
