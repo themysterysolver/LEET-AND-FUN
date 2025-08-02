@@ -5,34 +5,19 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
-            return None
-        def display(root):
-            while root:
-                print(root.val,'->',end='')
-                root=root.next
-            print('\n--------------')
-        prev,temp=ListNode(0),head
-        print('p c n')
-        start=prev
-        start.next=head
-        while temp:
-            if temp.next and temp.val==temp.next.val:
-                while temp.next and temp.val==temp.next.val:
-                    temp=temp.next
-                #print(prev.val,temp.val,temp.next.val)
-                temp=temp.next
-                prev.next=temp
-                #print(prev.val,temp.val,temp.next.val)
-                print('-----------------------')
-            else:
-                prev=temp
-                temp=temp.next
-        print('prev val at end!:',prev.val)
-        display(head)
-        display(start)
-        if head.next and head.val!=head.next.val:
-            return head
-        else:
-            return start.next
+        dummy = ListNode() 
+        dummy.next = head
+        prev = dummy
+        cur = head
+        while cur:
+            if cur.next and cur.next.val == cur.val:
+                val = cur.val
+                while cur and cur.val == val:
+                    cur = cur.next
+                prev.next = cur
+            else: 
+                prev = cur
+                cur = cur.next
+        
+        return dummy.next
         
