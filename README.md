@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2145-grid-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
@@ -1236,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2107-find-unique-binary-string) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2154-minimum-moves-to-convert-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2154-minimum-moves-to-convert-string) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2197-decode-the-slanted-ciphertext) |
@@ -1411,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1638,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
