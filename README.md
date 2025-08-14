@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3221-find-the-peaks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3396-valid-word) |
@@ -2272,6 +2274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3189-find-champion-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -2305,6 +2308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
