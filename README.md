@@ -1117,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2793-count-the-number-of-complete-components) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -1610,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3386-find-edges-in-shortest-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3386-find-edges-in-shortest-paths) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2036,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2793-count-the-number-of-complete-components) |
+| [3386-find-edges-in-shortest-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3561-remove-methods-from-project) |
 ## Simulation
@@ -2276,6 +2279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -2309,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3386-find-edges-in-shortest-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3386-find-edges-in-shortest-paths) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
