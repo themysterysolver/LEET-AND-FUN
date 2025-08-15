@@ -4,7 +4,7 @@ class Solution:
         #     for row in g:
         #         print(g)
         #     print('------------------')
-        g = [[0.0]*101 for _ in range(101)]
+        g = [[0.0]*(query_row+2) for _ in range(query_row+2)]
         # display(g)
         
         g[0][0] = poured
