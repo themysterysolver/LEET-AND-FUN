@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
+| [1331-path-with-maximum-gold](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1342-queens-that-can-attack-the-king](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1342-queens-that-can-attack-the-king) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1104-coloring-a-border) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1331-path-with-maximum-gold](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1331-path-with-maximum-gold) |
 | [1342-queens-that-can-attack-the-king](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1342-queens-that-can-attack-the-king) |
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -1854,6 +1856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0800-letter-case-permutation) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1160-letter-tile-possibilities) |
+| [1331-path-with-maximum-gold](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
