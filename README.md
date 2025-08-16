@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1169-largest-values-from-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1169-largest-values-from-labels) |
 | [1304-longest-happy-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1304-longest-happy-string) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1762-furthest-building-you-can-reach](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1762-furthest-building-you-can-reach) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1342-queens-that-can-attack-the-king](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1342-queens-that-can-attack-the-king) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1354-find-players-with-zero-or-one-losses) |
