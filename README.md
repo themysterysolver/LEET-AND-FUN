@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0171-excel-sheet-column-number) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1356,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0205-isomorphic-strings) |
@@ -1703,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
