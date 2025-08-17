@@ -7,10 +7,22 @@ class Solution:
             return 1
         stockPrices.sort()
         count = 1
+        def gcd(a,b):
+            if b == 0:
+                return a
+            return gcd(b,a%b)
+        def slope(a,b):
+            x1,y1 = a
+            x2,y2 = b
+            c = y2-y1
+            d = x2-x1
+            g = gcd(c,d)
+            return (c//g,d//g)
+        m = slope(stockPrices[0],stockPrices[1])
         for i in range(2,len(stockPrices)):
-            x1, y1 = stockPrices[i-2]
-            x2, y2 = stockPrices[i-1]
-            x3, y3 = stockPrices[i]
-            if (y2 - y1) * (x3 - x2) != (y3 - y2) * (x2 - x1):
+            if m == slope(stockPrices[i],stockPrices[i-1]):
+                continue
+            else:
+                m = slope(stockPrices[i],stockPrices[i-1])
                 count += 1
         return count
