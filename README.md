@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
+| [1010-powerful-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
 | [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
@@ -1405,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
+| [1010-powerful-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1010-powerful-integers) |
 | [1023-time-based-key-value-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
@@ -1731,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0204-count-primes) |
+| [1010-powerful-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2080-check-if-move-is-legal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2080-check-if-move-is-legal) |
