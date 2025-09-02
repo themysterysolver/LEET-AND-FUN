@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2384-root-equals-sum-of-children) |
@@ -1120,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1442,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1694-make-sum-divisible-by-p](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1685,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -2069,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-frog-position-after-t-seconds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2103-find-all-groups-of-farmland](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2103-find-all-groups-of-farmland) |
