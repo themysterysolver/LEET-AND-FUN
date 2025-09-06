@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1762-furthest-building-you-can-reach](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-diagonal-traverse-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1539-diagonal-traverse-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1580-shuffle-the-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1576,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-diagonal-traverse-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1539-diagonal-traverse-ii) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1988-minimize-maximum-pair-sum-in-array) |
