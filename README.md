@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3778-transform-array-by-parity](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3819-count-covered-buildings) |
@@ -1364,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-minimum-array-end](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3394-minimum-array-end) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
