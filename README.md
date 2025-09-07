@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1260-day-of-the-year) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1477-product-of-the-last-k-numbers) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1447-jump-game-iv](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1447-jump-game-iv) |
