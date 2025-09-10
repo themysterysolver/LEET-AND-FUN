@@ -1,3 +1,5 @@
+# idea here is to create an array max_pos which stores the information of the largest element to the right
+# Now we swap it wj=hen we go viaL ---> R
 class Solution:
     def maximumSwap(self, num: int) -> int:
         nums=list(map(int,str(num)))
