@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1206-corporate-flight-bookings) |
 | [1222-remove-covered-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1587,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1169-largest-values-from-labels) |
 | [1184-car-pooling](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1222-remove-covered-intervals) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1354-find-players-with-zero-or-one-losses) |
