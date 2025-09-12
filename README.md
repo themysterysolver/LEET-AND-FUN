@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0216-combination-sum-iii) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0304-range-sum-query-2d-immutable) |
@@ -1199,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0242-valid-anagram) |
@@ -1538,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0720-longest-word-in-dictionary) |
@@ -1917,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
