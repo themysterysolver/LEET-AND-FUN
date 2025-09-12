@@ -1205,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0242-valid-anagram) |
@@ -2211,6 +2212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1524-string-matching-in-an-array) |
@@ -2458,6 +2460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1508-longest-happy-prefix) |
@@ -2473,6 +2476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1508-longest-happy-prefix) |
 | [2339-k-divisible-elements-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3309-count-prefix-and-suffix-pairs-i) |
