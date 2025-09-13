@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
+| [0384-shuffle-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0384-shuffle-an-array) |
 | [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
@@ -2257,6 +2259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0307-range-sum-query-mutable) |
+| [0384-shuffle-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0729-my-calendar-i) |
@@ -2404,6 +2407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 ## Monotonic Queue
