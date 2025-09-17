@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2543-most-popular-video-creator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2543-most-popular-video-creator) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2551-apply-operations-to-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2551-apply-operations-to-an-array) |
@@ -1332,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2543-most-popular-video-creator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2543-most-popular-video-creator) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2580-circular-sentence) |
@@ -1525,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2483-task-scheduler-ii) |
 | [2487-optimal-partition-of-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2487-optimal-partition-of-string) |
+| [2543-most-popular-video-creator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2543-most-popular-video-creator) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1637,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2543-most-popular-video-creator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2543-most-popular-video-creator) |
 | [2554-minimum-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2554-minimum-total-distance-traveled) |
 | [2561-number-of-distinct-averages](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1699,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
+| [2543-most-popular-video-creator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2543-most-popular-video-creator) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2590-maximum-star-sum-of-a-graph) |
