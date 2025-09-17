@@ -1,3 +1,6 @@
+# Goat arjun!
+# idea is to use while loop to calculate the redunant or old data!
+# simply brilliant!!
 class FoodRatings:
 
     def __init__(self, foods: List[str], cuisines: List[str], ratings: List[int]):
