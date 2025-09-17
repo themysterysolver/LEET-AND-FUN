@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2386-min-max-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2386-min-max-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
@@ -1323,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2391-strong-password-checker-ii) |
 | [2406-decode-the-message](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2465-shifting-letters-ii) |
@@ -1514,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2406-decode-the-message) |
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2428-equal-row-and-column-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
@@ -1691,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -2279,6 +2283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1767-design-front-middle-back-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1767-design-front-middle-back-queue) |
 | [1955-seat-reservation-manager](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1955-seat-reservation-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
 ## Queue
@@ -2349,6 +2354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2280-count-good-triplets-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
