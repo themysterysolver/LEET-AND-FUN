@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3778-transform-array-by-parity](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3819-count-covered-buildings) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Matrix
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -1555,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3819-count-covered-buildings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -2291,6 +2295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
+| [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
