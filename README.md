@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3819-count-covered-buildings) |
+| [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Matrix
 |  |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
+| [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1560,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 | [3819-count-covered-buildings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3819-count-covered-buildings) |
+| [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Trie
@@ -2296,6 +2299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
 | [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -2312,6 +2316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -2369,6 +2374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 ## Graph
 |  |
 | ------- |
