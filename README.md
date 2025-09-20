@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1880-largest-merge-of-two-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1880-largest-merge-of-two-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1880-largest-merge-of-two-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1880-largest-merge-of-two-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
