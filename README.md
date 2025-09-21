@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2023-design-movie-rental-system) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2048-build-array-from-permutation) |
@@ -1511,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2023-design-movie-rental-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2107-find-unique-binary-string) |
@@ -1704,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1955-seat-reservation-manager) |
+| [2023-design-movie-rental-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
@@ -2300,6 +2303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1767-design-front-middle-back-queue) |
 | [1955-seat-reservation-manager](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1955-seat-reservation-manager) |
+| [2023-design-movie-rental-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
@@ -2373,6 +2377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0729-my-calendar-i) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2023-design-movie-rental-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2280-count-good-triplets-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2413-smallest-number-in-infinite-set](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2413-smallest-number-in-infinite-set) |
