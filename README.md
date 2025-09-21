@@ -1327,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2317-count-collisions-on-a-road](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2317-count-collisions-on-a-road) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2345-minimum-number-of-operations-to-convert-time) |
