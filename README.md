@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0797-rabbits-in-forest) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0917-boats-to-save-people) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0805-escape-the-ghosts) |
 | [0810-valid-tic-tac-toe-state](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0810-valid-tic-tac-toe-state) |
 | [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0835-linked-list-components](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0794-swim-in-rising-water) |
 | [0810-valid-tic-tac-toe-state](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0810-valid-tic-tac-toe-state) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
