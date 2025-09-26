@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0649-dota2-senate) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
@@ -1630,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
