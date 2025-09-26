@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2478-longest-nice-subarray) |
 | [2483-task-scheduler-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2483-task-scheduler-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2543-most-popular-video-creator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2543-most-popular-video-creator) |
@@ -1350,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2543-most-popular-video-creator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2543-most-popular-video-creator) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -1595,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1397-search-suggestions-system) |
 | [2339-k-divisible-elements-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2339-k-divisible-elements-subarrays) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1783,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3455-minimum-length-of-string-after-operations) |
