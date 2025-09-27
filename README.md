@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
@@ -1405,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1022-unique-paths-iii) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1940-maximum-xor-for-each-query) |
@@ -2010,6 +2012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1206-corporate-flight-bookings) |
@@ -2048,6 +2051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -2342,6 +2346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0969-number-of-recent-calls) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1767-design-front-middle-back-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1767-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1951-find-the-winner-of-the-circular-game) |
