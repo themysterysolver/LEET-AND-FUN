@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0334-increasing-triplet-subsequence) |
+| [0336-palindrome-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
@@ -1256,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0392-is-subsequence) |
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0387-first-unique-character-in-a-string) |
@@ -1610,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0720-longest-word-in-dictionary) |
