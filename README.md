@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0415-add-strings) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
@@ -1465,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0387-first-unique-character-in-a-string) |
+| [0391-perfect-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0433-minimum-genetic-mutation) |
@@ -1833,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0223-rectangle-area) |
+| [0391-perfect-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0391-perfect-rectangle) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
@@ -2571,4 +2575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0284-peeking-iterator) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
