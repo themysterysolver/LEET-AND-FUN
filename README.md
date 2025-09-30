@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0682-baseball-game) |
+| [0726-number-of-atoms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0800-letter-case-permutation) |
@@ -1485,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0797-rabbits-in-forest) |
@@ -1647,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0720-longest-word-in-dictionary) |
+| [0726-number-of-atoms](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
