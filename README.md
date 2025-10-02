@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3371-harshad-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3462-vowels-game-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3462-vowels-game-in-a-string) |
@@ -2282,6 +2283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2857-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2857-total-distance-traveled) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
