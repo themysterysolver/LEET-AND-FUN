@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0342-power-of-four) |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0316-remove-duplicate-letters) |
@@ -2016,6 +2018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1022-unique-paths-iii) |
