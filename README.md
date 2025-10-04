@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1397-search-suggestions-system) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1396-count-servers-that-communicate) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
