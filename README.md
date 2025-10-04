@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1073-number-of-enclaves) |
+| [1097-stream-of-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1097-stream-of-characters) |
 | [1104-coloring-a-border](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1104-coloring-a-border) |
 | [1106-escape-a-large-maze](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1106-escape-a-large-maze) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -1304,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1097-stream-of-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1097-stream-of-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1622,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0720-longest-word-in-dictionary) |
+| [1097-stream-of-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1097-stream-of-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1397-search-suggestions-system) |
 | [2339-k-divisible-elements-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2339-k-divisible-elements-subarrays) |
@@ -2356,6 +2359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1023-time-based-key-value-store) |
+| [1097-stream-of-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1097-stream-of-characters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1512-design-underground-system) |
@@ -2539,6 +2543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0969-number-of-recent-calls) |
+| [1097-stream-of-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1097-stream-of-characters) |
 | [1477-product-of-the-last-k-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1767-design-front-middle-back-queue) |
