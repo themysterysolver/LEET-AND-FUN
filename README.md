@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3031-construct-product-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3031-construct-product-matrix) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1393,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2887-sort-vowels-in-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
