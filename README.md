@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1642-water-bottles) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2021-remove-all-occurrences-of-a-substring) |
