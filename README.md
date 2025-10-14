@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0835-linked-list-components](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0835-linked-list-components) |
+| [0839-short-encoding-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0839-short-encoding-of-words) |
 | [0860-design-circular-queue](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
 | [0869-similar-string-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0869-similar-string-groups) |
@@ -1316,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0812-rotate-string) |
+| [0839-short-encoding-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0839-short-encoding-of-words) |
 | [0868-push-dominoes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0869-similar-string-groups) |
 | [0878-shifting-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0878-shifting-letters) |
@@ -1532,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0835-linked-list-components) |
+| [0839-short-encoding-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0839-short-encoding-of-words) |
 | [0869-similar-string-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0869-similar-string-groups) |
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1650,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0720-longest-word-in-dictionary) |
+| [0839-short-encoding-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0839-short-encoding-of-words) |
 | [1097-stream-of-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1097-stream-of-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1397-search-suggestions-system) |
