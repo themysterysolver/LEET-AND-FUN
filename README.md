@@ -1347,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1508-longest-happy-prefix) |
 | [1512-design-underground-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1512-design-underground-system) |
