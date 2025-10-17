@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1260-day-of-the-year) |
+| [1284-four-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
+| [1284-four-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1284-four-divisors) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1293-three-consecutive-odds) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1312-count-artifacts-that-can-be-extracted) |
