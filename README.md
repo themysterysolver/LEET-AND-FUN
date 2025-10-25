@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2636-maximum-subsequence-score) |
@@ -1420,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-words-within-two-edits-of-dictionary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2580-circular-sentence) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2727-number-of-senior-citizens) |
