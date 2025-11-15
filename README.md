@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2681-put-marbles-in-bags) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -1442,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2727-number-of-senior-citizens) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
