@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1631,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2169-simple-bank-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1769,6 +1771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2245-destroying-asteroids](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2245-destroying-asteroids) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -2363,6 +2366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-decode-the-slanted-ciphertext](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2317-count-collisions-on-a-road](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2343-count-unguarded-cells-in-the-grid) |
