@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
+| [0633-sum-of-square-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0797-rabbits-in-forest) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
