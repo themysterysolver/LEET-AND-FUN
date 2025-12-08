@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
@@ -1344,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0468-validate-ip-address) |
+| [0474-ones-and-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -2039,6 +2041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0542-01-matrix) |
