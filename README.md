@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1762-furthest-building-you-can-reach](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1412,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1619-path-crossing) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1714-rearrange-spaces-between-words) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1638,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1694-make-sum-divisible-by-p](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -1793,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1539-diagonal-traverse-ii) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1988-minimize-maximum-pair-sum-in-array) |
