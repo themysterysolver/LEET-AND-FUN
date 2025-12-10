@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0909-stone-game) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
+| [1006-clumsy-factorial](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1006-clumsy-factorial) |
 | [1010-powerful-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1033-broken-calculator) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1002-maximum-width-ramp) |
+| [1006-clumsy-factorial](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1006-clumsy-factorial) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -2381,6 +2383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [0983-validate-stack-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0983-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1006-clumsy-factorial) |
 | [1041-available-captures-for-rook](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1041-available-captures-for-rook) |
 | [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1184-car-pooling) |
