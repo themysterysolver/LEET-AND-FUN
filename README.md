@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1236-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1260-day-of-the-year) |
 | [1284-four-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1284-four-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1284-four-divisors) |
@@ -2387,6 +2389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1041-available-captures-for-rook) |
 | [1119-robot-bounded-in-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1119-robot-bounded-in-circle) |
 | [1184-car-pooling](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1184-car-pooling) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1312-count-artifacts-that-can-be-extracted) |
 | [1342-queens-that-can-attack-the-king](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1342-queens-that-can-attack-the-king) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
