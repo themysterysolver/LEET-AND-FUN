@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3371-harshad-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3433-count-mentions-per-user](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3463-alternating-groups-i) |
@@ -1835,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3433-count-mentions-per-user) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3778-transform-array-by-parity](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3778-transform-array-by-parity) |
@@ -2427,6 +2430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
