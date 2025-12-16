@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1293-three-consecutive-odds) |
 | [1312-count-artifacts-that-can-be-extracted](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1312-count-artifacts-that-can-be-extracted) |
+| [1313-decompress-run-length-encoded-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1313-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
 | [1329-sort-the-matrix-diagonally](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1329-sort-the-matrix-diagonally) |
