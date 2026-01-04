@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0611-valid-triangle-number) |
@@ -2311,6 +2312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0547-number-of-provinces) |
+| [0565-array-nesting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0565-array-nesting) |
 | [0606-construct-string-from-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0652-find-duplicate-subtrees) |
