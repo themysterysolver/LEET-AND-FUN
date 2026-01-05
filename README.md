@@ -1365,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0524-longest-word-in-dictionary-through-deleting) |
