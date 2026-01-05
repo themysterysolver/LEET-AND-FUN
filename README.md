@@ -1385,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0812-rotate-string) |
+| [0831-masking-personal-information](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0831-masking-personal-information) |
 | [0839-short-encoding-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0839-short-encoding-of-words) |
 | [0868-push-dominoes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0869-similar-string-groups) |
