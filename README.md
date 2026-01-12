@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1236-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1260-day-of-the-year) |
+| [1266-minimum-time-visiting-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1284-four-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1272-invalid-transactions](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1272-invalid-transactions) |
 | [1284-four-divisors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1284-four-divisors) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -1998,6 +2000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0915-generate-random-point-in-a-circle) |
 | [0919-projection-area-of-3d-shapes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0919-projection-area-of-3d-shapes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
