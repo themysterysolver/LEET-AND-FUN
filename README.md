@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3483-alternating-groups-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -1730,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1915,6 +1918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3386-find-edges-in-shortest-paths) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2459,6 +2463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Game Theory
@@ -2619,6 +2624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2447-merge-similar-items) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
 | [2868-continuous-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2868-continuous-subarrays) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 ## Graph
 |  |
@@ -2771,6 +2777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1582-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Iterator
 |  |
 | ------- |
