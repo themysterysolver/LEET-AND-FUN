@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3453-separate-squares-i) |
 | [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
