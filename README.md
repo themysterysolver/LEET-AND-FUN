@@ -1443,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1449-print-words-vertically](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1508-longest-happy-prefix) |
@@ -1563,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1678,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1447-jump-game-iv](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1502-construct-k-palindrome-strings) |
 | [1512-design-underground-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1512-design-underground-system) |
@@ -2787,6 +2790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0817-design-hashmap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1508-longest-happy-prefix) |
 | [2339-k-divisible-elements-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -2801,6 +2805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1508-longest-happy-prefix) |
 | [2339-k-divisible-elements-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3309-count-prefix-and-suffix-pairs-i) |
