@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2238-a-number-after-a-double-reversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2154-minimum-moves-to-convert-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2154-minimum-moves-to-convert-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2245-destroying-asteroids](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2245-destroying-asteroids) |
