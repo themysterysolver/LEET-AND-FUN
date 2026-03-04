@@ -1419,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0979-di-string-match) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1023-time-based-key-value-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1032-satisfiability-of-equality-equations) |
@@ -1562,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0861-flipping-an-image) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -1660,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0999-regions-cut-by-slashes) |
 | [1010-powerful-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1010-powerful-integers) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1023-time-based-key-value-store](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1039-find-the-town-judge) |
@@ -2274,6 +2277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1430-find-the-k-beauty-of-a-number) |
