@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3031-construct-product-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3031-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -901,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3031-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -2269,6 +2271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3031-construct-product-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3031-construct-product-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3311-ant-on-the-boundary](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3311-ant-on-the-boundary) |
