@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3830-find-closest-person](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Array
 |  |
 | ------- |
