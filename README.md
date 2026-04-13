@@ -1961,6 +1961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2636-maximum-subsequence-score) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -2603,6 +2604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2434-design-a-number-container-system) |
 | [2512-longest-uploaded-prefix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2512-longest-uploaded-prefix) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3797-design-spreadsheet](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 ## Queue
@@ -2763,6 +2765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3386-find-edges-in-shortest-paths) |
@@ -2857,4 +2860,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1591-strange-printer-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1591-strange-printer-ii) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
