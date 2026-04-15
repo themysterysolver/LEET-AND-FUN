@@ -2168,6 +2168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2164-two-best-non-overlapping-events](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2262-solving-questions-with-brainpower) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2554-minimum-total-distance-traveled](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2586-longest-square-streak-in-an-array) |
@@ -2538,6 +2539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1236-n-th-tribonacci-number) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2318-number-of-distinct-roll-sequences) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## String Matching
 |  |
