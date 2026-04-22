@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2383-add-two-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2383-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2427-number-of-common-factors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2481-strictly-palindromic-number) |
@@ -2086,6 +2087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2339-k-divisible-elements-subarrays](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2339-k-divisible-elements-subarrays) |
 | [2390-naming-a-company](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2390-naming-a-company) |
+| [2427-number-of-common-factors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2427-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3199-distribute-candies-among-children-i) |
@@ -2100,6 +2102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2427-number-of-common-factors](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
