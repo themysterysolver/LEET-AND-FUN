@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Linked List
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3827-implement-router](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
@@ -1243,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1930,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3433-count-mentions-per-user) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3778-transform-array-by-parity](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/3778-transform-array-by-parity) |
