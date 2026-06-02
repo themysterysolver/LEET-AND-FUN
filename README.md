@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0907-koko-eating-bananas) |
@@ -1688,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-short-encoding-of-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0839-short-encoding-of-words) |
 | [0869-similar-string-groups](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0869-similar-string-groups) |
 | [0876-hand-of-straights](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0876-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -2326,6 +2328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0904-fruit-into-baskets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0904-fruit-into-baskets) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/1046-max-consecutive-ones-iii) |
