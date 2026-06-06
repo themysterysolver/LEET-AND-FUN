@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
@@ -1670,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0508-most-frequent-subtree-sum) |
@@ -1950,6 +1952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0744-network-delay-time) |
@@ -2331,6 +2334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0904-fruit-into-baskets) |
