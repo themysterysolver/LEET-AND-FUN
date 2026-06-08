@@ -1284,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0542-01-matrix) |
@@ -1426,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0500-keyboard-row) |
+| [0514-freedom-trail](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0535-encode-and-decode-tinyurl) |
@@ -2172,6 +2174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0583-delete-operation-for-two-strings) |
@@ -2419,6 +2422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0463-island-perimeter) |
 | [0508-most-frequent-subtree-sum](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0529-minesweeper) |
 | [0538-convert-bst-to-greater-tree](https://github.com/themysterysolver/LEET-AND-FUN/tree/master/0538-convert-bst-to-greater-tree) |
