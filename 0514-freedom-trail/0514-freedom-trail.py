@@ -1,3 +1,4 @@
+#vamsi my boi goat!
 class Solution:
     def findRotateSteps(self, ring: str, key: str) -> int:
         n = len(ring)
@@ -5,8 +6,7 @@ class Solution:
         hash = defaultdict(list)
         for idx,c in enumerate(ring):
             hash[c].append(idx)
-        print(hash)
-
+        # print(hash)
         @cache
         def go(idx,i):
             if i == m:
